@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+#lampada{
+    height: 600px;
+}
+
+#btn_ligades{
+    height: 100px;
+    width: 80px;
+    border-radius: 15px;
+    border: none;
+}
+
+#btn_ligar{
+    height: 50px;
+    width: 70px;
+}
+
+#btn_desligar{
+    height: 50px;
+    width: 70px;
+}
